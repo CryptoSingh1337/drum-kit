@@ -11,6 +11,13 @@ h1 {
 
 }
 
+@media (min-width: 1024px) {
+
+  h1 {
+    font-size: 5rem;
+  }
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
